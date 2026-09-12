@@ -74,11 +74,11 @@ public class Mendoza {
 
                 // this data variables is used to store the number, word, and length of the word for each line in the output file
 
-                String num = String.format("%.3f", boxedNumbers[i]);// uses the SORTED array, not the original unsorted one decimal formatting to 3 decimal places
+                String num = String.format("%.3f", boxedNumbers[i]);
                 String word = words[i];
                 int length = word.length();
 
-                bw.write(num + "\t\t" + word + "\t\t" + length);
+                bw.write(String.format("%-20s%-40s%-5d", num, word, length));
                 bw.newLine();
             }
             System.out.println("Output file generated: " + outputFile);

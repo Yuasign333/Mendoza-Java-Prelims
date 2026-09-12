@@ -1,0 +1,15 @@
+87687634568.800     hello                                   5    
+33333300000.000     manila                                  6    
+28789898888.000     Philippines                             11   
+564545456.456       Banco de Oro                            12   
+37564985.567        Dao Heng Bank                           13   
+37465968.980        ABN Amro Bank                           13   
+5768439.000         Bank of America                         15   
+2374859.980         Hongkong Shanghai Bank                  22   
+387847.788          United States of America                24   
+5789.987            Rizal Cement Corporation                24   
+4444.678            University of Santo Tomas               25   
+500.000             United Coconut Planters Bank            28   
+-376258.678         Land Bank of the Philippines            28   
+-7893333.000        Bank of the Philippine Islands          30   
+-8377457.988        Rizal Commercial Banking Corporation    36   
