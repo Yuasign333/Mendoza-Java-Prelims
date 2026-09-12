@@ -8,7 +8,7 @@ public class Mendoza {
         
         // Input and Output file names
 
-        String inputFile = "Mendoza.txt";
+        String inputFile = "MENDOZA.txt";
         String outputFile = "Yuan.txt";
 
         //using arrays for this project since given data sets are fixed
